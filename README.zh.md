@@ -15,7 +15,7 @@
 
 > 家庭网络版已实现厂商级 365 天历史与轻量可用性监控。部署说明见 [家庭网络版部署指南](docs/home-network-deployment.zh.md)，容量基准见 [SQLite 容量与性能](docs/sqlite-capacity.zh.md)。
 
-> **当前版本重点（v1.1.0）**：在**厂商流量模型**与**可用性监控模型**之上，新增厂商自动化证据收集与智能建议：后台探测 Unknown 域名/IP，生成高/中置信度建议，默认自动采用无歧义的高置信结果并重分类近 30 天历史。
+> **当前版本重点（v1.1.1）**：在**厂商流量模型**与**可用性监控模型**之上，新增厂商自动化证据收集与智能建议，并修复手动规则编辑时无法更换厂商的问题。
 
 > 本项目由 [zhangjf108/Home-Network-Monitor](https://github.com/zhangjf108/Home-Network-Monitor) 维护，基于 MIT 许可的 [foru17/neko-master](https://github.com/foru17/neko-master) 二次开发，并保留上游版权与许可声明。
 
