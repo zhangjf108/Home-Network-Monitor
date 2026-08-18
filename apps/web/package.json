@@ -1,6 +1,6 @@
 {
   "name": "@neko-master/web",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Home network traffic and availability monitoring dashboard.",
   "private": true,
   "scripts": {
